@@ -1,0 +1,6 @@
+state/
+logs/
+*.log
+*.csv
+*.tmp
+*.last-good.json
